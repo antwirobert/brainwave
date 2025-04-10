@@ -2,8 +2,6 @@
 
 Brainwave is an innovative AI-powered chat application designed to enhance productivity and streamline communication through intelligent automation and top-notch security.
 
-![Brainwave AI Chat Application](https://ra-brainwave.vercel.app/assets/brainwave-banner.png)
-
 ## Features
 
 - **AI-Powered Conversations**: Engage in intelligent and context-aware dialogues with our advanced AI chatbot.
@@ -30,7 +28,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/brainwave-ai-chat.git
+    git clone https://github.com/yourusername/brainwave.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -73,15 +71,6 @@ Follow these steps to set up the project locally:
 
 ## Technologies Used
 
-- **Frontend**:
   - [React.js](https://reactjs.org/)
   - [Tailwind CSS](https://tailwindcss.com/)
   - [Framer Motion](https://www.framer.com/motion/) for animations
-
-- **Backend**:
-  - [Node.js](https://nodejs.org/)
-  - [Express](https://expressjs.com/)
-  - [OpenAI API](https://openai.com/api/)
-
-## Project Structure
-
